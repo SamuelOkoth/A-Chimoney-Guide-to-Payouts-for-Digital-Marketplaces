@@ -29,7 +29,7 @@ Chimoney’s API is a powerful solution designed to make global payouts easier, 
 
 ### Key Features of Chimoney’s API:
 
-- **Multi-Currency Support**: Send payouts in various currencies, eliminating the need for third-party conversion tools.
+- **Multi-Currency Support**: Send payouts in different currencies, eliminating the need for third-party conversion tools.
 - **Compliance Assurance**: The API handles compliance requirements, ensuring your marketplace operates within legal frameworks.
 - **Secure Transactions**: Built-in security protocols protect sensitive data, providing peace of mind for you and your users.
 - **Scalable Solutions**: Handle high transaction volumes effortlessly as your marketplace grows.
